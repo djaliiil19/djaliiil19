@@ -5,7 +5,7 @@
 
 ---
 
-<img width="35%" align="right" src="https://i.ibb.co/jG8fPby/developer.jpg" />
+<img width="35%" align="right" src="./developer.jpg" />
 
 ###
 ###
