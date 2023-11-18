@@ -64,17 +64,15 @@
     <img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/docker.svg" alt="Docker" title="Docker" />
 </div>
 
-
+<hr>
 <h2 align ="center">GitHub Statistics</h2>
-<div align="start" style="display: flex; justify-content: space-around; align-items: flex-start; width: 100%; gap: 1rem;">
-  <img 
-    style="width: 50%;"
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=djaliiil19&show_icons=true&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
-  />
-  <img 
-    style="width: 50%;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=djaliiil19&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
-  />
-
-[//]: # (  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djaliiil19&show_icons=true&theme=nightowl&count_private=true"/>)
+<div style="display: flex; flex-wrap: wrap; width: 100%;">
+  <div style="display: flex; flex-direction: column; flex-basis: 50%; justify-content: space-between;">
+    <div style="flex-basis: calc(33.33% - 10px); margin: 5px; padding: 5px;">
+      <img width="50%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=djaliiil19&theme=tokyonight" />
+    </div>
+    <div style="flex-basis: calc(33.33% - 10px); margin: 5px; padding: 5px;">
+      <img width="50%" height = "200px" src="https://awesome-github-stats.azurewebsites.net/user-stats/djaliiil19?theme=tokyonight&show_icons=true&cardType=github" />
+    </div>
+  </div>
 </div>
