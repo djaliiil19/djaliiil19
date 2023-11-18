@@ -1,11 +1,10 @@
 <div style="width: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center">
-<img width="35%" align="middle" src="./myPic1.png" border="all" />
-<div>
 <h1 align="center"> Hi there👋, I'm Abdeldjalil</h1>
+
+<img width="30%" align="middle" src="./myPic1.png" border="all" />
 <h3 align="center">A Full Stack Developer and a Computer Scientist from Algeria</h3>
 
 <p align="center">I have a great passion for learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with various technologies.</p>
-</div>
 </div>
 
 ---
@@ -29,8 +28,7 @@
 
 
 
-📫 Reach me on:
-# ( <a href="https://www.linkedin.com/in/abdeldjalil-bouzidi-55019615a/" target="_blank"><img align="center" src="./linkedin.png" alt="linkedin" width="35" /></a> ) &nbsp; OR &nbsp; ( <a href="https://www.facebook.com/djaliiil19" target="_blank"><img align="center" src="./facebook.png" alt="facebook" width="35" /></a> )
+📫 Reach me on: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( <a href="https://www.linkedin.com/in/abdeldjalil-bouzidi-55019615a/" target="_blank"><img align="center" src="./linkedin.png" alt="linkedin" width="35" /></a> ) &nbsp; OR &nbsp; ( <a href="https://www.facebook.com/djaliiil19" target="_blank"><img align="center" src="./facebook.png" alt="facebook" width="35" /></a> )
 
 </span>
 
@@ -66,13 +64,7 @@
 
 <hr>
 <h2 align ="center">GitHub Statistics</h2>
-<div style="display: flex; flex-wrap: wrap; width: 100%;">
-  <div style="display: flex; flex-direction: column; flex-basis: 50%; justify-content: space-between;">
-    <div style="flex-basis: calc(33.33% - 10px); margin: 5px; padding: 5px;">
-      <img width="50%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=djaliiil19&theme=tokyonight" />
-    </div>
-    <div style="flex-basis: calc(33.33% - 10px); margin: 5px; padding: 5px;">
-      <img width="50%" height = "200px" src="https://awesome-github-stats.azurewebsites.net/user-stats/djaliiil19?theme=tokyonight&show_icons=true&cardType=github" />
-    </div>
-  </div>
+<div style="display: flex; flex-basis: 100%; justify-content: center; gap: 25px; margin-top: 35px;">
+  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=djaliiil19&theme=tokyonight" />
+  <img height = "200px" src="https://awesome-github-stats.azurewebsites.net/user-stats/djaliiil19?theme=tokyonight&show_icons=true&cardType=github" />
 </div>
