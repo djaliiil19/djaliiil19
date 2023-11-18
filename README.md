@@ -1,12 +1,11 @@
-<div style="width: 100%; display: flex; justify-content: center; align-items: center">
-<div>
+<div style="width: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+
 <h1 align="center"> Hi there👋, I'm Abdeldjalil</h1>
+<img align="center" style="width: 300px;" src="./myPic1.png" border="all" />
+
 <h3 align="center">A Full Stack Developer and a Computer Scientist from Algeria</h3>
 
 <p align="center">I have a great passion for learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with various technologies.</p>
-</div>
-<img width="30%" align="middle" src="./myPic1.png" border="all" />
-
 </div>
 
 ---
