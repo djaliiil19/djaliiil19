@@ -1,7 +1,9 @@
 <div style="width: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center;">
 
 <h1 align="center"> Hi there👋, I'm Abdeldjalil</h1>
-<img align="center" style="width: 300px;" src="./myPic1.png" border="all" />
+<div style="display: flex; justify-content: center; ">
+<img style="width: 300px;" src="./myPic1.png" />
+</div>
 
 <h3 align="center">A Full Stack Developer and a Computer Scientist from Algeria</h3>
 
