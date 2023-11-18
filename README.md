@@ -1,7 +1,7 @@
 <div style="width: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center;">
 
 <h1 align="center"> Hi there👋, I'm Abdeldjalil</h1>
-<div style="display: flex; justify-content: center; width: 100%;">
+<div style="display: flex; justify-content: center; width: 100%; text-align: center;">
 <img style="width: 300px;" src="./myPic1.png" />
 </div>
 
