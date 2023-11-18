@@ -74,3 +74,15 @@
 
 [//]: # (  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djaliiil19&show_icons=true&theme=nightowl&count_private=true"/>)
 </div>
+
+<hr>
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="display: flex; flex-direction: column; flex-basis: 50%; justify-content: space-between;">
+    <div style="flex-basis: calc(33.33% - 10px); margin: 5px; padding: 5px;">
+      <img width="100%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=djaliiil19&theme=tokyonight" />
+    </div>
+    <div style="flex-basis: calc(33.33% - 10px); margin: 5px; padding: 5px;">
+      <img width="100%" height = "200px" src="https://awesome-github-stats.azurewebsites.net/user-stats/djaliiil19?theme=tokyonight&show_icons=true&cardType=github" />
+    </div>
+  </div>
+</div>
