@@ -62,13 +62,13 @@
 
 <hr>
 <h2 align ="center">GitHub Statistics</h2>
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; width: 100%;">
   <div style="display: flex; flex-direction: column; flex-basis: 50%; justify-content: space-between;">
     <div style="flex-basis: calc(33.33% - 10px); margin: 5px; padding: 5px;">
-      <img width="100%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=djaliiil19&theme=tokyonight" />
+      <img width="50%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=djaliiil19&theme=tokyonight" />
     </div>
     <div style="flex-basis: calc(33.33% - 10px); margin: 5px; padding: 5px;">
-      <img width="100%" height = "200px" src="https://awesome-github-stats.azurewebsites.net/user-stats/djaliiil19?theme=tokyonight&show_icons=true&cardType=github" />
+      <img width="50%" height = "200px" src="https://awesome-github-stats.azurewebsites.net/user-stats/djaliiil19?theme=tokyonight&show_icons=true&cardType=github" />
     </div>
   </div>
 </div>
